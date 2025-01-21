@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, this is a fantastic new feature! And here is a modification from B!
+=======
+Hello, this is a fantastic new feature !
+salut
+>>>>>>> 72f8dab4ade38d11dfcbfa69b932ffefdb21fea2
